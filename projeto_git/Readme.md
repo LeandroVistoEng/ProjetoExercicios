@@ -1,2 +1,3 @@
 Testando o Git para o projeto.
-alteração teste 1
+Alteração feita na branch botão.
+Mais uma linha de testes
